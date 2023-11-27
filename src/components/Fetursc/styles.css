@@ -1,0 +1,100 @@
+.feturecomponet{
+    width: 100%;
+    margin-top: 100px;
+    position: relative;
+  
+}
+.animelogoa{
+    width: 50%;
+    position: absolute;
+    left: 60%;
+    top: -30%;
+    z-index: -1;
+}
+.feturconholder{
+    width: 80%;
+    height:400px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: rgb(22, 27, 34);
+    z-index:1;
+    border: 1px solid rgb(49, 49, 49);
+    border-radius: 10px;
+    display: flex;
+    color: #fff;
+   
+}
+.feturconholder>img{
+    width: 50%;
+    height: 100%;
+}
+.fet1mkn{
+    width: 50%;
+    height: 100%;
+}
+.fet1mkn>h1{
+    font-size: 22px;
+    width: 80%;
+    margin-left:10%;
+    margin-top: 10%;
+    color: #858585;
+
+}
+.fet1mkn>h2{
+    font-size: 22px;
+    width: 80%;
+    margin-left:10%;
+    margin-top: 30%;
+    color: #ffffff;
+
+}
+.fet1mkn>h1>span{
+   
+    color: #ffffff;
+
+}
+.otherfeture{
+    width: 80%;
+    height: 100vh;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.otherfeture>div{
+    width:48%;
+    height: 100vh;
+    background-color: rgb(22, 27, 34);
+    z-index:1;
+    border: 1px solid rgb(49, 49, 49);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+}
+.otherfeture>div>div,.otherfeture>div>img{
+   width: 100%;
+   height: 50%;
+}
+.otherfeture>div>div>h1{
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+    font-size: 25px;
+    font-weight: 500;
+    color: #858585;
+}
+.otherfeture>div>div>h1>span{
+
+    color: #ffffff;
+}
+.otherfeture>div>div>h2{
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #ffffff;
+    cursor: pointer;
+} 

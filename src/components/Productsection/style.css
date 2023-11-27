@@ -1,0 +1,177 @@
+.producsection{
+   width: 100%;
+ 
+   background-image: url("https://github.githubassets.com/assets/shape-0-df97fa6b0c27.svg");
+   background-size: 55% ;
+   background-repeat: no-repeat;
+   background-position: 150% 20%;
+}
+.probody{
+    width: 70%;
+    height:400px;
+    margin: auto;
+    margin-top: 50px;
+    
+    display: flex;
+    color: #fff;
+   
+}
+.progradients{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.producontent{
+    width: 90%;
+    height: 100%;
+   
+}
+.prohedsh{
+    font-size: 55px;
+    font-weight: 500;
+    color: #3fb950;
+}
+.prohedsh2{
+    font-size: 45px;
+    font-weight: 500;
+   margin-top: -35px;
+}
+.prodimg{
+    width: 70%;
+    margin: auto;
+    position: relative;
+}
+.proheroimg{
+    width: 100%;
+   
+}
+.proheroimg2{
+    width: 45%;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    border-radius: 10px;
+}
+.probody2{
+    width: 70%;
+    height:400px;
+    margin: auto;
+    margin-top: 300px;
+    
+    display: flex;
+    color: #fff;
+   
+}
+.progradients2{
+    width: 10%;
+    height: 100%;
+   
+}
+.producontent2{
+    width: 90%;
+    height: 100%;
+   
+}
+.producontent2>p{
+   font-size: 22px;
+   width: 50%;
+   color: #858585;
+}
+.producontent2>p>span{
+    font-size: 22px;
+    width: 50%;
+    color: #ffffff;
+    font-weight: 600;
+ }
+ .producontent2>h3{
+    font-size: 22px;
+    width: 50%;
+    color: #ffffff;
+ }
+ .producontent2>button{
+    font-size: 10px;
+    padding: 6px;
+    margin-top: 50px;
+    border: 1px solid  #3fb950;
+    border-radius: 10px;
+    color: #3fb950;
+    background-color: #00000000
+ }
+ .prohedsh2{
+    font-size: 65px;
+    font-weight: 500; 
+    margin-top: -5px;
+    color: #33b3ae;
+}
+.producontent2>h4{
+    font-size: 22px;
+    width: 50%;
+    color: #ffffff;
+    margin-top: -35px;
+ }
+ .colabsection{
+    width: 100%;
+    height: 400px;
+   
+ }
+ .colab2{
+    width: 70%;
+    height: 300px;
+    margin: auto;
+    margin-top: 100px;
+
+    display: flex;
+   
+ }
+ .colabciar{
+    width: 10%;
+    height: 100%;
+
+ }
+ .colabheadings{
+    width: 90%;
+    height: 100%;
+    color: #fff;
+ }
+ .colabheadings>h2{
+    font-weight: 600;
+    color: #fff;
+ }
+ .colabheadingmain1{
+    color: #f778ba;
+    font-weight: 600;
+    font-size: 45px;
+ }
+ .colabheadingmain12{
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 45px;
+    margin-top: -30px;
+ }
+.colabheroimgsdfg{
+    width: 80%;
+    margin: auto;
+    position: relative;
+}
+.imgcola1{
+    width: 100%;
+    margin: auto;
+    margin-top: 50px;
+}
+.imgcola2{
+    width: 40%;
+    position: absolute;
+    top: 60%;
+    left: 62%;
+    border-radius: 5px;
+}
+.imgcola3{
+    width: 50%;
+    position: absolute;
+    left: 70%;
+    z-index: -1;
+    top: -300px;
+}
